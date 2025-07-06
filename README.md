@@ -13,7 +13,7 @@ Built With
 - MLFlow
 
 
-Getting Started
+------------------Getting Started-------------------------
 Follow the instructions below to set up and run the project locally.
 1. Clone the Repository
 git clone https://github.com/Nayeem114477/flight-fare-prediction.git

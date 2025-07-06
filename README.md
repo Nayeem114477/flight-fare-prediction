@@ -16,24 +16,41 @@ Built With
 ------------------Getting Started-------------------------
 
 Follow the instructions below to set up and run the project locally.
+
 1. Clone the Repository
+
 git clone https://github.com/Nayeem114477/flight-fare-prediction.git
 
 cd flight-fare-prediction
+
 2. Set Up Virtual Environment (Recommended)
+
 Using conda:
+
 conda create -p venv python=3.10 -y
+
 conda activate ./venv
+
 Or using venv:
+
 python -m venv venv
+
 venv\Scripts\activate     # Windows
+
 source venv/bin/activate  # macOS/Linux
+
 3. Install Dependencies
+   
 pip install -r requirements.txt
+
 4. Run the App
+
 python app.py
+
 5. Open in Browser
 Visit http://localhost:5000 to access the app.
+
+
 Project Structure
 .
 ├── app.py

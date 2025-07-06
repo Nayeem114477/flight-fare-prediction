@@ -14,9 +14,11 @@ Built With
 
 
 ------------------Getting Started-------------------------
+
 Follow the instructions below to set up and run the project locally.
 1. Clone the Repository
 git clone https://github.com/Nayeem114477/flight-fare-prediction.git
+
 cd flight-fare-prediction
 2. Set Up Virtual Environment (Recommended)
 Using conda:

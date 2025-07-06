@@ -52,6 +52,7 @@ Visit http://localhost:5000 to access the app.
 
 
 Project Structure
+
 .
 
 ├── app.py
